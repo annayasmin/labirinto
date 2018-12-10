@@ -1,8 +1,8 @@
 // Bibliotecas -----------------------------------------------------------------
 #include <Arduino.h>
 #include <TimerOne.h>
-#include "libraries/motores.h"
-#include "libraries/sensores.h"
+#include "motores.h"
+#include "sensores.h"
 #include <stdint.h>
 
 // Definição dos pinos no modo MICROMOUSE --------------------------------------
